@@ -17,7 +17,7 @@ Atualmente, estou desenvolvendo meus primeiros conhecimentos em programação e 
 - Desenvolvimento de Software
 - Banco de Dados
 - Desenvolvimento Web
-- Git e GitHub
+- GitHub
 
 ## 🎯 Objetivos
 
