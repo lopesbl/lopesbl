@@ -1,4 +1,4 @@
- Olá! 👋 Eu sou Gabriel Maia Barbosa Lopes
+# Olá! 👋 Eu sou Gabriel Maia Barbosa Lopes
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📚 Atualmente no 1º semestre  
