@@ -27,12 +27,6 @@ Atualmente, estou desenvolvendo meus primeiros conhecimentos em programação e 
 - Conseguir minha primeira oportunidade na área de TI
 - Evoluir profissionalmente na área de tecnologia
 
-## Instagram **📸*
-
-<a href="https://instagram.com/gmaiabl" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30px">
-</a>
-
 ---
 
 ⭐ Este perfil acompanha minha evolução durante minha jornada na área de tecnologia.
