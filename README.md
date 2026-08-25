@@ -1,35 +1,28 @@
-# Python para Não Programadores
- 
-Este é o repositório do curso de LinkedIn Learning `Python para Não Programadores`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
+# Olá! 👋 Eu sou Gabriel Maia Barbosa Lopes 
 
-![Título completo do curso][lil-thumbnail-url] 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Atualmente no 1º semestre  
+🚀 Buscando minha primeira oportunidade na área de Tecnologia da Informação
 
-Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
+## 👨‍💻 Sobre mim
 
-DESCRIÇÃO DO CURSO 
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha jornada na área de tecnologia.
 
-A melhor maneira de aprender uma linguagem é usá-la na prática. É por isso que este curso está integrado ao GitHub Codespaces, um ambiente de desenvolvimento instantâneo na nuvem que oferece toda a funcionalidade de seu IDE favorito sem a necessidade de qualquer configuração do dispositivo local. Com o Codespaces, você pode praticar em qualquer dispositivo, a qualquer momento - tudo isso sem precisar instalar nenhuma outra ferramenta.
+Atualmente estou desenvolvendo meus conhecimentos através da faculdade e de estudos pessoais. Meu objetivo é aprender cada vez mais, criar meus primeiros projetos e conquistar minha primeira oportunidade profissional na área de TI.
 
-## Instruções 
-Este repositório contém ramificações, ou branches, para cada um dos vídeos do curso. Caso você deseje alternar para uma ramificação específica e continuar o curso a partir daí, use o menu pop-up da ramificação no GitHub ou adicione `/tree/nome_da_ramificação` ao URL para acessar diretamente a ramificação desejada. 
+## 📚 Atualmente estudando
 
-## Ramificações 
-As ramificações são estruturadas para corresponder aos vídeos do curso. A convenção de nomenclatura é Capítulo#_Vídeo#. Por exemplo, a ramificação `02_03` corresponde ao terceiro vídeo do segundo capítulo. Algumas ramificações terão um status inicial e final, indicado com um i (início) e um f (fim). Portanto, a ramificação 02_03_i corresponde ao código de início do vídeo e a ramificação 02_03_f corresponde ao código de fim do vídeo. Por outro lado, a ramificação mestre corresponde ao código de conclusão do curso. 
-
-## Instalação
-1. Para usar esses arquivos de exercícios, você precisa criar um fork desse repositório no seu perfil pessoal.
-2. Em seguida, clone o repositório no Codespace.
-
-### Instrutor(a)
-
-**Ana Cecília Vieira**
-
-Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-cecilia-vieira).
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/python-para-nao-programadores/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEMUJvtBnkGlg/learning-public-crop_675_1200/0/1706864471876?e=2147483647&v=beta&t=Cb4Lsnyi7JaALRAPmUqGhvC02Yi7XOADhgNEBXzMfKc
+- Lógica de Programação
+- Desenvolvimento de Software
+- Banco de Dados
+- Desenvolvimento Web
+- Github
 
 
-[1]: # (End of BP-Instruction ###############################################################################################)
 
+## 📌 Objetivos
+
+- Aprender novas tecnologias
+- Criar projetos para meu portfólio
+- Evoluir meus conhecimentos em programação
+- Conseguir minha primeira oportunidade na área de TI
