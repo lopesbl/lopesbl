@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Gabriel Maia Barbosa Lopes
+ Olá! 👋 Eu sou Gabriel Maia Barbosa Lopes
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📚 Atualmente no 1º semestre  
@@ -17,7 +17,7 @@ Atualmente, estou desenvolvendo meus primeiros conhecimentos em programação e 
 - Desenvolvimento de Software
 - Banco de Dados
 - Desenvolvimento Web
-- GitHub
+- Git e GitHub
 
 ## 🎯 Objetivos
 
@@ -26,3 +26,7 @@ Atualmente, estou desenvolvendo meus primeiros conhecimentos em programação e 
 - Construir meu portfólio
 - Conseguir minha primeira oportunidade na área de TI
 - Evoluir profissionalmente na área de tecnologia
+
+---
+
+⭐ Este perfil acompanha minha evolução durante minha jornada na área de tecnologia.
